@@ -16,7 +16,7 @@ public class JdbcTest {
 	private String jdbcUrl="jdbc:oracle:thin:@192.168.21.128:1521:orcl";
 	private String user="scott";
 	private String password="root";
-	
+	//hello
 	@Test
 	public void findAllEmp(){
 		try {
