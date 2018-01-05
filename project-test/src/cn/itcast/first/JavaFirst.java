@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class JavaFirst {
 
-     //什么a 
+     //好了吧 
 
 	@Test
 	public void testHelloWrold() {
